@@ -1,2 +1,2 @@
 # insta-clone 
-##Using react and firebase
+## Using react and firebase
